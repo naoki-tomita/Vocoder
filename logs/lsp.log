@@ -1,0 +1,14 @@
+27-03-2020 18:42:35.321 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+27-03-2020 18:42:35.321 [Gauge] [ERROR] Unable to add directory /Users/naoki.tomita/Documents/Vocoder/specs to file watcher: lstat /Users/naoki.tomita/Documents/Vocoder/specs: no such file or directory
+27-03-2020 18:42:35.322 [Gauge] [INFO] Initializing specs cache with 0 specs
+27-03-2020 18:42:35.322 [Gauge] [INFO] Initializing steps cache with 0 steps
+27-03-2020 18:42:35.323 [Gauge] [DEBUG] Current runner is not compatible with gauge LSP.
+27-03-2020 18:42:35.323 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+27-03-2020 18:42:35.338 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
+30-03-2020 10:33:54.704 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+30-03-2020 10:33:54.706 [Gauge] [INFO] Initializing specs cache with 0 specs
+30-03-2020 10:33:54.706 [Gauge] [INFO] Initializing steps cache with 0 steps
+30-03-2020 10:33:54.706 [Gauge] [ERROR] Unable to add directory /Users/naoki.tomita/Documents/Vocoder/specs to file watcher: lstat /Users/naoki.tomita/Documents/Vocoder/specs: no such file or directory
+30-03-2020 10:33:54.708 [Gauge] [DEBUG] Current runner is not compatible with gauge LSP.
+30-03-2020 10:33:54.708 [Gauge] [INFO] LangServer: reading on stdin, writing on stdout
+30-03-2020 10:33:54.927 [Gauge] [ERROR] notif #0: initialized: current runner is not compatible with gauge LSP
